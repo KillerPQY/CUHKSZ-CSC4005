@@ -2,7 +2,7 @@
 
 This repository stored my assignments of the CSC4005 course at CUHKSZ in my undergraduate career.
 
-CSC4005 is called "Paralley Programming​".
+CSC4005 is called "Parallel Programming​".
 
 The scores I got were
 
